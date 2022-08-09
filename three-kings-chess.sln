@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "three-kings-chess", "three-kings-chess.csproj", "{801C7FFC-7FA8-4262-AC3C-87FE08FD8F84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{801C7FFC-7FA8-4262-AC3C-87FE08FD8F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801C7FFC-7FA8-4262-AC3C-87FE08FD8F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801C7FFC-7FA8-4262-AC3C-87FE08FD8F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801C7FFC-7FA8-4262-AC3C-87FE08FD8F84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAF890F8-C6A0-4FDA-80BA-4C8E7A60772D}
+	EndGlobalSection
+EndGlobal
