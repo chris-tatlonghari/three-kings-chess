@@ -1,7 +1,7 @@
 ﻿using System;
-using static DATSChess.MoveUtility;
+using static ThreeKings.MoveUtility;
 
-namespace DATSChess.Engines
+namespace ThreeKings.Engines
 {
     public class Randy
     {

@@ -1,9 +1,9 @@
 ﻿using System;
-using static DATSChess.MoveUtility;
-using static DATSChess.Piece;
-using static DATSChess.MoveFinder;
+using static ThreeKings.MoveUtility;
+using static ThreeKings.Piece;
+using static ThreeKings.MoveFinder;
 
-namespace DATSChess
+namespace ThreeKings
 {
 
     public class Piece
