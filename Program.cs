@@ -1,9 +1,9 @@
-using DATSChess.Engines;
+using ThreeKings.Engines;
 using System;
 using System.IO;
-using static DATSChess.MoveUtility;
+using static ThreeKings.MoveUtility;
 
-namespace DATSChess
+namespace ThreeKings
 {
     class Program
     {
@@ -24,7 +24,6 @@ namespace DATSChess
                         Console.WriteLine("uciok");
                         break;
                     case "isready":
-                        //_board.SetupBoard();
                         Console.WriteLine("readyok");
                         break;
                     case "position":

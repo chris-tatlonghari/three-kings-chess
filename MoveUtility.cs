@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using static DATSChess.Piece;
+using static ThreeKings.Piece;
 
-namespace DATSChess
+namespace ThreeKings
 {
     public class MoveUtility
     {
