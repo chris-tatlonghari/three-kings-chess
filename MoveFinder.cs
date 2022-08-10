@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using static ThreeKings.MoveUtility;
-using static ThreeKings.Piece;
+using ThreeKings.Library;
+using static ThreeKings.Library.Piece;
+using static ThreeKings.Utilities.MoveUtility;
 
 namespace ThreeKings
 {

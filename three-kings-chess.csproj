@@ -43,15 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Board.cs" />
+    <Compile Include="Library\Board.cs" />
     <Compile Include="Engines\Randy.cs" />
+    <Compile Include="Library\Enums\Color.cs" />
+    <Compile Include="Library\Move.cs" />
+    <Compile Include="Library\Piece.cs" />
     <Compile Include="MoveFinder.cs" />
-    <Compile Include="MoveUtility.cs" />
+    <Compile Include="Utilities\MoveUtility.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
