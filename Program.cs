@@ -1,7 +1,9 @@
 using System;
 using System.IO;
-using static ThreeKings.MoveUtility;
 using ThreeKings.Engines;
+using ThreeKings.Library;
+using static ThreeKings.Utilities.MoveUtility;
+
 
 namespace ThreeKings
 {

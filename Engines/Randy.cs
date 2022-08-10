@@ -1,5 +1,6 @@
 ﻿using System;
-using static ThreeKings.MoveUtility;
+using ThreeKings.Library;
+using static ThreeKings.Utilities.MoveUtility;
 
 namespace ThreeKings.Engines
 {
